@@ -1,8 +1,8 @@
 Royal Bingo - Internal modules
 
 
-filename                    keymap
----                         ---
+filename                    keymap                encryption mode
+---                         ---                   ---
 
-royalrand-1.0.0             [RB_A_CORE]
-theraffle-1.0.0             [RB_A_CORE]
+royalrand-1.0.0             [RB_A_CORE]           One-time pad
+theraffle-1.0.0             [RB_A_CORE]           One-time pad
